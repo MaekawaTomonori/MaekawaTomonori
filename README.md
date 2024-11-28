@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **MaekawaTomonori/MaekawaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# TechStack
+## TechStack
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,discord,bots,twitter)](https://skillicons.dev)
 
 ## Eventually
