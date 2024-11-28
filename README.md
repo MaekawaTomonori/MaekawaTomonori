@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,github,slack,discord,twitter)](https://skillicons.dev)
 
 ## Eventually
-[![My Skills](https://skillicons.dev/icons?i=rpi,linux,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,mysql,)](https://skillicons.dev)
