@@ -34,11 +34,8 @@ Here are some ideas to get you started:
 > C/C++ <br/>
 > HLSL(with DirectX12) <br/>
 > Java <br/>
-> C# (little bit)
+> C# (little bit)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&layout=compact)
-
-<br/>
-
 ![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
 
 ## Stats
