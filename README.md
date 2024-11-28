@@ -5,9 +5,6 @@
   <a href="https://github.com/MaekawaTomonori">
     <img height="20" src="https://img.shields.io/github/followers/MaekawaTomonori?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://twitter.com/TomoGamesYT">
-    <img height="20" src="https://img.shields.io/twitter/follow/TomoGamesYT?label=Twitter&logo=twitter&style=flat" />
-  </a>
 </p>
 
 # Hi there 👋
