@@ -8,6 +8,7 @@
     <img height="20" src="https://img.shields.io/github/followers/MaekawaTomonori?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 
 <!--
