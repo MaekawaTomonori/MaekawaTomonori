@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 # Hi there 👋
 
 <!--
@@ -21,3 +30,6 @@ Here are some ideas to get you started:
 ## Eventually
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,mysql,git,docker,grafana,php,vim)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=clion,cmake,gradle,md,rust,vscode,ubuntu,unity,unreal,)](https://skillicons.dev)<br/>
+
+### Languages
+-
