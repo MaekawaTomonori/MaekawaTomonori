@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 > Java <br/>
 > C# (little bit)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&layout=compact)
 ![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
 
 ## Stats
