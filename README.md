@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=clion,cmake,gradle,md,rust,vscode,ubuntu,unity,unreal,)](https://skillicons.dev)<br/> <br/>
 
 ## Languages
-> * C/C++
-> * Java
+> C/C++
+> Java
+> C# (little bit)
+
+![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaekawaTomonori&theme=gruvbox)
