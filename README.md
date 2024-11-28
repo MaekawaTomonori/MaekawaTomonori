@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 > C/C++ <br/>
 > HLSL(with DirectX12) <br/>
 > Java <br/>
-> C# (little bit) <br/>
+> C# (little bit)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&layout=compact)
+
+<br/>
 
 ![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&layout=compact)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaekawaTomonori&theme=gruvbox)
