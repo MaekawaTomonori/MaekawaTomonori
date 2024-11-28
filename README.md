@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # TechStack
-[![My Skills](https://skillicons.dev/icons?i=c, cpp, java, mysql, github, discord &perline=4)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,github,discord&perline=4)](https://skillicons.dev)
