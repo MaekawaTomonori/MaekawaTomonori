@@ -8,9 +8,7 @@
     <img height="20" src="https://img.shields.io/github/followers/MaekawaTomonori?label=follow&logo=github&style=flat" />
   </a>
 </p>
-<p align="right">
-  [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 
 <!--
 **MaekawaTomonori/MaekawaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
