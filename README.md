@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 
 :woozy_face: DrunkEngineer.<br/>
 
-Contact : [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
+Contact : <br/>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tomogamesyt)
+
 
 ## TechStack
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,bots,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,bots)](https://skillicons.dev)
 
 ## Eventually
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,mysql,git,docker,grafana,php,vim)](https://skillicons.dev)<br/>
