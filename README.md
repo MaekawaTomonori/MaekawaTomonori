@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header]()](https://resume.id/tmnr/)
+[![Header](./header.png)](https://resume.id/tmnr/)
 
 ## TechStack
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,discord,bots,twitter)](https://skillicons.dev)
