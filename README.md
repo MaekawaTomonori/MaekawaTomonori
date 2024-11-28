@@ -9,7 +9,6 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 
 <!--
 **MaekawaTomonori/MaekawaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:woozy_face: DrunkEngineer.<br/>
+
+Contact : [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 
 ## TechStack
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,bots,twitter)](https://skillicons.dev)
