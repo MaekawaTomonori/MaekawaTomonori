@@ -32,4 +32,15 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=clion,cmake,gradle,md,rust,vscode,ubuntu,unity,unreal,)](https://skillicons.dev)<br/>
 
 ### Languages
--
+- 
+
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaekawaTomonori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaekawaTomonori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaekawaTomonori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaekawaTomonori&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaekawaTomonori&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=MaekawaTomonori&theme=gruvbox)
