@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # TechStack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,github,discord&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,github,slack,discord,twitter)](https://skillicons.dev)
+
+## Eventually
+[![My Skills](https://skillicons.dev/icons?i=rpi,linux,mysql,)](https://skillicons.dev)
