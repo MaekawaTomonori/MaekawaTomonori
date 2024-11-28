@@ -1,3 +1,5 @@
+[![Header](./header.png)](https://resume.id/tmnr/)
+
 <p align="left">
   <a href="https://github.com/MaekawaTomonori">
     <img height="20" src="https://komarev.com/ghpvc/?username=MaekawaTomonori" />
@@ -7,7 +9,6 @@
   </a>
 </p>
 
-# Hi 👋
 <!--
 **MaekawaTomonori/MaekawaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Header](./header.png)](https://resume.id/tmnr/)
 
 ## TechStack
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,discord,bots,twitter)](https://skillicons.dev)
