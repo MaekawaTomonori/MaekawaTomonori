@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Environment
-### Browsers
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
-
 ## TechStack
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,discord,bots,twitter)](https://skillicons.dev)
 
