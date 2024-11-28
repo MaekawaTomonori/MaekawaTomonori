@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Languages
 > C/C++ <br/>
-> hlsl(with DirectX12)
+> hlsl(with DirectX12) <br/>
 > Java <br/>
 > C# (little bit) <br/>
 
