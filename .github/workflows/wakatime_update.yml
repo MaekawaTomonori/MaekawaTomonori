@@ -1,0 +1,23 @@
+name: Update Wakatime Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 毎時間更新
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Wakatime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Updated Wakatime stats" || exit 0
+          git push
