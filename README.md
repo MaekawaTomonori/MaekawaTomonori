@@ -11,7 +11,6 @@
 </p>
 
 # Hi there 👋
-***
 <!--
 **MaekawaTomonori/MaekawaTomonori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
