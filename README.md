@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## TechStack
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,visualstudio,idea,windows,github,notion,bots)](https://skillicons.dev)
 
-## Eventually
+### Eventually
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,mysql,git,docker,grafana,php,vim)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=clion,cmake,gradle,md,rust,vscode,ubuntu,unity,unreal,)](https://skillicons.dev)<br/> <br/>
 
-## Languages
+### Languages
 > C/C++ <br/>
 > HLSL(with DirectX12) <br/>
 > Java <br/>
