@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
 
 ### 🕒 Total Coding Time
-<!--START_SECTION:waka-->
+<!--START_WAKATIME_TOTAL-->
 Loading...
-<!--END_SECTION:waka-->
+<!--END_WAKATIME_TOTAL-->
 
 
 ## Stats
