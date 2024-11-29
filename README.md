@@ -64,7 +64,7 @@ Loading...
 
 Contact : <br/>
 <a href=mailto:info@botrpg.com>
-  <img alt="mail" height="50" width="45" src="https://cdn.simpleicons.org/gmail/000000">
+  <img alt="mail" height="50" width="45" src="https://cdn.simpleicons.org/gmail/000000/111111">
 </a>
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tomogamesyt)
