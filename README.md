@@ -63,6 +63,8 @@ Loading...
 ![](https://raw.githubusercontent.com/MaekawaTomonori/MaekawaTomonori/output/github-contribution-grid-snake.svg)
 
 Contact : <br/>
-[![Mail](<img height="50" width="50" src="https://cdn.simpleicons.org/gmail/000000">)](mailto:info@botrpg.com)
+<a href=mailto:info@botrpg.com>
+  <img alt="mail" height="50" width="50" src="https://cdn.simpleicons.org/gmail/000000">
+</a>
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tomogamesyt)
