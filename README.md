@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 ![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
 
 ### 🕒 Total Coding Time
-<!--START_WAKATIME_TOTAL-->
+<!--START_SECTION:waka-->
 Loading...
-<!--END_WAKATIME_TOTAL-->
+<!--END_SECTION:waka-->
+
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaekawaTomonori&theme=gruvbox)
