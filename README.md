@@ -1,4 +1,4 @@
-[![Header](./header.png)](https://resume.id/tmnr/)
+![![Header](./header.png)](https://resume.id/tmnr/)
 
 <p align="left">
   <a href="https://github.com/MaekawaTomonori">
