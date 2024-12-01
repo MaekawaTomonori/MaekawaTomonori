@@ -45,7 +45,13 @@ Here are some ideas to get you started:
 
 ## Total Coding Time
 <!--START_SECTION:waka-->
-Loading...
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
