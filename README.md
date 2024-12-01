@@ -69,6 +69,6 @@ Contact : <br/>
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tomogamesyt)
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
