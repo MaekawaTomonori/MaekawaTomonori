@@ -2,8 +2,10 @@
   <img src="./header.png">
 </a>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=MaekawaTomonori.MaekawaTomonori&color=00cf00)
-<p align="left">
+<p align="right">
+  <a href="https://github.com/MaekawaTomonori">
+    <img height="20" src="https://komarev.com/ghpvc/?username=MaekawaTomonori" />
+  </a>
   <a href="https://github.com/MaekawaTomonori">
     <img height="20" src="https://img.shields.io/github/followers/MaekawaTomonori?label=follow&logo=github&style=flat" />
   </a>
