@@ -7,7 +7,7 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=MaekawaTomonori&brightgreen"/>
   </a>
   <a href="https://github.com/MaekawaTomonori">
-    <img height="20" src="https://img.shields.io/github/followers/MaekawaTomonori?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/MaekawaTomonori?label=follow&logo=github&style=flat&color=00cf00" />
   </a>
 </p>
 
