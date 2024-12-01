@@ -1,4 +1,4 @@
-<a href="https://resume.id/tmnr/" target="_blank">
+<a href="https://resume.id/tmnr/" target="_new">
   <img src="./header.png">
 </a>
 
