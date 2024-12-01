@@ -1,4 +1,6 @@
-[![Header](./header.png)](https://resume.id/tmnr/)
+<a href="https://resume.id/tmnr/" target="_blank">
+  <img src="./header.png">
+</a>
 
 <p align="left">
   <a href="https://github.com/MaekawaTomonori">
@@ -25,7 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:woozy_face: DrunkEngineer.<br/>
+> [!CAUTION]
+> :woozy_face: DrunkEngineer.<br/>
 
 
 ## TechStack
