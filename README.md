@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name
+## About Me
+- mame : tomo
+- age : 20 y.o
+- game dev.
+- 
 
 > [!CAUTION]
 > :woozy_face: Drunker.<br/>
