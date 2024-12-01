@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![Most Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MaekawaTomonori&theme=vue-dark)
 
-### Eventually
+### Will Learn
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,mysql,git,docker,grafana,php,vim)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=clion,cmake,gradle,md,rust,vscode,ubuntu,unity,unreal,)](https://skillicons.dev)<br/> <br/>
 
