@@ -59,9 +59,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 hrs 42 mins
 
-No activity tracked
+C++           1 hr 49 mins    ████████████▒░░░░░░░░░░░░   49.30 %
+HLSL          1 hr 47 mins    ████████████░░░░░░░░░░░░░   48.31 %
+Markdown      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
