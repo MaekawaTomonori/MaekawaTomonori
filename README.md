@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - game dev.
 - :woozy_face: DrunkEngineer.<br/>
 
-> [!CAUTION]
+> [!WARNING]
 > Sorry, Im not good at English.
 
 
