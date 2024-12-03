@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - mame : tomo
 - age : 20 y.o
 - game dev.
-- 
 
 > [!CAUTION]
 > :woozy_face: Drunker.<br/>
