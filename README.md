@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- mame : tomo
+- name : tomo
 - age : 20 y.o
 - game dev.
 
 > [!CAUTION]
-> :woozy_face: Drunker.<br/>
+> :woozy_face: DrunkEngineer.<br/>
 
 
 ## TechStack
