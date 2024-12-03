@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 - name : tomo
 - age : 20 y.o
 - game dev.
+- :woozy_face: DrunkEngineer.<br/>
 
 > [!CAUTION]
-> :woozy_face: DrunkEngineer.<br/>
+> Sorry, Im not good at English.
 
 
 ## TechStack
