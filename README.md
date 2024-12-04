@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-> name : tomo
-> age : 20 y.o
-> hobby : music(remix, guitar)
-> game dev.
-> i have a dog.
+> name : tomo <br/>
+> age : 20 y.o <br/>
+> hobby : music(remix, guitar) <br/>
+> game dev. <br/>
+> i have a dog. <br/>
 > :woozy_face: DrunkEngineer.<br/>
 
 > [!WARNING]
