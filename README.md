@@ -28,10 +28,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- name : tomo
-- age : 20 y.o
-- game dev.
-- :woozy_face: DrunkEngineer.<br/>
+name : tomo
+age : 20 y.o
+hobby : music(remix, guitar)
+game dev.
+i have a dog.
+:woozy_face: DrunkEngineer.<br/>
 
 > [!WARNING]
 > Sorry, Im not good at English.
