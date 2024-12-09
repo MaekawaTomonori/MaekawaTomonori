@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > i have a dog. <br/>
 > :woozy_face: DrunkEngineer.<br/>
 
-> [!WARNING]
+> [!CAUTION]
 > Sorry, Im not good at English.
 
 
