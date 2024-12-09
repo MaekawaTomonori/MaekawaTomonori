@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-> name : tomo <br/>
-> age : 20 y.o <br/>
-> hobby : music(remix, guitar), osu!(rank 480k) <br/>
-> game dev. <br/>
-> i have a dog. <br/>
-> :woozy_face: DrunkEngineer.<br/>
+name : tomo <br/>
+age : 20 y.o <br/>
+hobby : music(remix, guitar), osu!(rank 480k) <br/>
+game dev. <br/>
+i have a dog. <br/>
+:woozy_face: DrunkEngineer.<br/>
 
 > [!CAUTION]
 > Sorry, Im not good at English.
