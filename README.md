@@ -71,7 +71,7 @@ C                                ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-> [!infomation]
+>[!information]
 > since 12/02/2024
 
 
