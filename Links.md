@@ -1,0 +1,1 @@
+- [monolith techblog](https://www.monolithsoft.co.jp/techblog/)
