@@ -1,3 +1,4 @@
 - [monolith techblog](https://www.monolithsoft.co.jp/techblog/)
 - WinAPI
+    - [全体的な説明を行っているPlayList](https://www.youtube.com/watch?v=eZy_vWDsYS4&list=PL6V_zpRWalRkZ5sg6KRLX0POKSD9RL8Es)
     - [WindowClass](https://www.youtube.com/watch?v=Y2rFMGG5TuI)
