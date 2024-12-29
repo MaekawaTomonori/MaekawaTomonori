@@ -1,4 +1,6 @@
-- [monolith techblog](https://www.monolithsoft.co.jp/techblog/)
+# モチベ維持や制作の参考にしている記事や動画(チャンネル)
+- 企業の情報(モチベ用も含む)
+    - [monolith techblog](https://www.monolithsoft.co.jp/techblog/)
 - C++
     - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
 - WinAPI
