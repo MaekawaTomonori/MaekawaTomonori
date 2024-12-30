@@ -61,7 +61,7 @@ i have a dog. <br/>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 37 mins
+Total Time: 2 hrs 33 mins
 
 C++                   █████████████████████████   100.00 %
 ```
