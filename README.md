@@ -61,9 +61,11 @@ i have a dog. <br/>
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 33 mins
+Total Time: 3 hrs 23 mins
 
-C++                   █████████████████████████   100.00 %
+C++                    ███████████████████████▒░   92.79 %
+HLSL                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+C                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
