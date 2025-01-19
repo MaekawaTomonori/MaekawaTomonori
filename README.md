@@ -33,7 +33,7 @@ age : 20 y.o <br/>
 hobby : music(remix, guitar), osu!(rank 340k) <br/>
 game dev. <br/>
 i have a dog. <br/>
-:woozy_face: DrunkEngineer.<br/>
+:woozy_face: Fueled by tea, drinks, and a spark of inspiration.<br/>
 
 > [!CAUTION]
 > Sorry, Im not good at English.
