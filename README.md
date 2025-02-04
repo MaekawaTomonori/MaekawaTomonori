@@ -71,7 +71,8 @@ C                53 mins         ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+>[!NOTE]
+> since 12/02/2024
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaekawaTomonori&theme=gruvbox)
