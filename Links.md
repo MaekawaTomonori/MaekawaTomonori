@@ -8,3 +8,8 @@
     - [WindowClass](https://www.youtube.com/watch?v=Y2rFMGG5TuI)
 - DirectX12
     - [個人制作している方](https://www.youtube.com/@solagamedev)
+ 
+- Engine
+    - [Entity関連の参考](https://github.com/miguelmartin75/anax)
+    - [物理エンジン](https://box2d.org/)
+    - [yamlライブラリ](https://github.com/jbeder/yaml-cpp)
