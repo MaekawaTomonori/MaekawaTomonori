@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## About Me
 name : tomo <br/>
 age : 20 y.o <br/>
-hobby : music(remix, guitar), osu!(rank 340k) <br/>
+hobby : music(remix, guitar), osu!(rank 339k) <br/>
 game dev. <br/>
 i have a dog. <br/>
 :woozy_face: Fueled by tea, drinks, and a spark of inspiration.<br/>
