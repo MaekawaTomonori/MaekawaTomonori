@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- **Name :**　tomo
+- **Name :** tomo
 - **Age :** 20 y.o 
 - **Hobbies :** music(remix, guitar), osu!(rank 339k) 
 - **Field :** game dev. 
