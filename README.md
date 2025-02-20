@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - **Age :** 20 y.o 
 - **Hobbies :** music(remix, guitar), osu!(rank 339k) 
 - **Field :** game dev. 
-- **Note :** i have a dog. Fueled by tea, drinks, and a spark of inspiration:woozy_face:
+- **Note :** i have a dog. Fueled by tea, drinks, and a spark of inspiration :woozy_face:
 
 > [!CAUTION]
 > Sorry, Im not good at English.
