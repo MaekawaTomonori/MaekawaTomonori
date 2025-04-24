@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 268 hrs 2 mins
+Total Time: 270 hrs 20 mins
 
-C++              242 hrs 13 mins ██████████████████████▓░░   90.37 %
-HLSL             9 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-CMake            3 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-C                2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+C++              244 hrs 3 mins  ██████████████████████▓░░   90.28 %
+HLSL             9 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+CMake            3 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+C                2 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 OpenEdge ABL     2 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
