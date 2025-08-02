@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 478 hrs 1 min
+Total Time: 482 hrs 18 mins
 
-C++                                424 hrs 40 mins ██████████████████████▒░░   88.84 %
-Other                              13 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-HLSL                               12 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-CMake                              5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-C                                  4 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+C++                                428 hrs 39 mins ██████████████████████▒░░   88.88 %
+Other                              13 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+HLSL                               12 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+CMake                              5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+C                                  4 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
