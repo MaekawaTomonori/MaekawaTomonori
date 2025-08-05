@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - **Name :** tomo
-- **Age :** 20 y.o 
+- **Age :** 21 y.o 
 - **Hobbies :** music(remix, guitar), osu!(rank 326k) 
 - **Field :** game dev. 
 - **Note :** i have a dog. Fueled by tea, drinks, and a spark of inspiration :woozy_face:
