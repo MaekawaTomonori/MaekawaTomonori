@@ -88,11 +88,10 @@ CMake                              5 hrs 17 mins         ▒░░░░░░�
 ![](https://raw.githubusercontent.com/MaekawaTomonori/MaekawaTomonori/output/github-contribution-grid-snake.svg)
 
 Contact : <br/>
-<a href=mailto:info@botrpg.com>
+<a href=mailto:tomo-notepc@outlook.jp>
   <img alt="mail" height="50" width="45" src="https://cdn.simpleicons.org/gmail/black/white">
 </a>
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tomogamesyt)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
