@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 738 hrs 47 mins
+Total Time: 739 hrs 47 mins
 
-C++                                660 hrs 19 mins       ██████████████████████▒░░   89.38 %
-Markdown                           17 hrs 10 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+C++                                661 hrs 15 mins       ██████████████████████▒░░   89.38 %
+Markdown                           17 hrs 10 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other                              14 hrs 31 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 HLSL                               14 hrs 29 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other                              14 hrs 27 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 C                                  5 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
