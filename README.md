@@ -91,8 +91,6 @@ Contact : <br/>
 <a href=mailto:tomo-notepc@outlook.jp>
   <img alt="mail" height="50" width="45" src="https://cdn.simpleicons.org/gmail/black/white">
 </a>
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/426265852153692161)
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
